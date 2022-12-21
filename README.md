@@ -19,3 +19,9 @@ The ultimate goal of this assignment/project was to learn how to use extended p5
 [Project 3 - Mappa Version](https://editor.p5js.org/achilcoat4874/full/PTc-S_l3g)  
 
 
+## Project 4: Multivariate Data Visualisation with p5.js
+
+Central goal of this project was to visualise panel data. This project includes Leaflet (code provided by Andre Skupin Ph.D), grafica.js, and SAS generated PCA analysis. 
+
+[Project 4](https://editor.p5js.org/achilcoat4874/sketches/MxM3QzoQd)  
+
