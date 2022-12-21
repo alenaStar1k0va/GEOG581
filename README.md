@@ -23,5 +23,5 @@ The ultimate goal of this assignment/project was to learn how to use extended p5
 
 Central goal of this project was to visualise panel data. This project includes Leaflet (code provided by Andre Skupin Ph.D), grafica.js, and SAS generated PCA analysis. 
 
-[Project 4](https://editor.p5js.org/achilcoat4874/sketches/MxM3QzoQd)  
+[Project 4](https://editor.p5js.org/achilcoat4874/full/MxM3QzoQd)  
 
